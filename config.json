@@ -27,8 +27,8 @@
 
         "__comment06__": "FOR API TYPE 1 ACCESS TOKEN IS RECOMMENDED. GET IT FROM https://chat.openai.com/api/auth/session",
         "__comment07__": "OR SESSION_TOKEN (FROM COOKIES ON chat.openai.com AS __Secure-next-auth.session-token",
-        "email": "",
-        "password": "",
+        "email": "rtromp4@liberty.edu",
+        "password": "000vai??? ###",
         "session_token": "",
         "access_token": "",
 
