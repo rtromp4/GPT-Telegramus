@@ -1,9 +1,9 @@
 {
     "__comment01__": "SPECIFY WHAT MODULES WILL BE INCLUDED IN TELEGRAM BOT",
     "modules": {
-        "chatgpt": true,
+        "chatgpt": false,
         "edgegpt": true,
-        "dalle": true,
+        "dalle": false,
         "bard": true,
         "bing_imagegen": true,
         "gemini": true,
